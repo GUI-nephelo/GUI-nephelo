@@ -5,6 +5,8 @@
 ### 🚀 Backend & AI Developer | Always Learning
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+Enthusiast;Full+Stack+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+
+
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/GUI-nephelo/GUI-nephelo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github-contribution-grid-snake-dark](https://raw.githubusercontent.com/GUI-nephelo/GUI-nephelo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </div>
